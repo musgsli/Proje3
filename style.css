@@ -1,0 +1,110 @@
+.bdy{
+    background-color: darkgray;
+}
+
+.btn{
+    border: none;
+    width: 50px;
+    height: 50px;
+    background-color: #D33257;
+    margin:50px;
+    margin-top: 500px;
+}
+
+.randombtnseverler{
+    visibility: hidden;
+}
+
+.sevmezler{
+    visibility: hidden;
+    position: absolute;
+    left: 45%;
+    top: 35%;
+}
+
+.skr{
+    visibility: hidden;
+    color: white;
+    z-index: 10;
+}
+
+.selamlar{
+    position: absolute;
+    border-radius: 10px;
+    left: 64%;
+    bottom: 55%;
+    width: 40px;
+    height: 25px;
+    border: visible;
+    border-color: black;
+    background-color: black;
+    
+}
+
+.serp{
+    color: white;
+    text-align: center;
+    z-index: 10;
+}
+
+.sada{
+    visibility: hidden;
+    position: absolute;
+    top: 25%;
+    left: 21%;
+    width: 1000px;
+    height:500px;
+    border: 5px solid #000;
+    background-color:#00ff73;
+    z-index: -1;
+    border-radius: 100px;
+}
+
+.sa{
+    position: absolute;
+    right: 3%;
+}
+
+
+.nn{
+    visibility: hidden;
+}
+
+.nn1{
+    visibility: hidden;
+}
+
+.os{
+    margin:50px;
+    margin-top: 243px;
+    margin-left: 100px;
+    border-radius: 15px;
+}
+
+.d1{
+    width: 60px;
+    height: 60px;
+}
+
+.CY{
+    position:relative;
+    left: 862px;
+    bottom: 200px;
+    z-index: 30;
+}
+
+.CD{
+    position:relative;
+    left: 862px;
+    bottom: 200px;
+    z-index: 30;
+}
+
+.ref{
+    position: relative;
+    left: 450px;
+    bottom: 400px;
+    border-radius: 20px;
+    box-shadow: none;
+    text-shadow: none;
+}
